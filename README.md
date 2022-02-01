@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Saurabh Kumar</h1>
-<h3 align="center">A passionate Android Developer from India</h3>
+<h1 align="center">Hi 👋, I'm SAURABH KUMAR</h1>
 <img align="right" alt="Coading" eidth="400" src="https://webentirety.com/wp-content/uploads/2021/05/android-app-development-company-in-Jaipur.gif">
 
 
