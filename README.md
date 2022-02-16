@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saurabh Kumar</h1>
-<img align="right" alt="Coading" eidth="400" src="https://miro.medium.com/max/800/1*zzTEyTwyy7jXibtqVWg84Q.gif">
+<img align="right" alt="Coading" eidth="400" src="https://c.tenor.com/cdu8MIU0Mq0AAAAC/android-google-happy-google.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imsaurabhjadaun&label=Profile%20views&color=0e75b6&style=flat" alt="imsaurabhjadaun" /> </p>
