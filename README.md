@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/imsaurabhjadaun" target="blank"><img src="https://img.shields.io/twitter/follow/imsaurabhjadaun?logo=twitter&style=for-the-badge" alt="imsaurabhjadaun" /></a> </p>
 
-- 🔭 I’m currently working on **Flutter**
+- 🔭 I’m currently working on **Compose**
 
-- 🌱 I’m currently learning **Flutter and Compose and Kotlin Multi-platformer.**
+- 🌱 I’m currently learning **Compose and Kotlin Multi-platformer.**
 
 - 👯 I’m looking to collaborate on **Android Projects**
 
