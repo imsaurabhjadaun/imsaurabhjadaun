@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **imsaurabhjadaun@gmail.com**
 
-- ⚡ Fun fact **I spend almost 8 hours listening to songs every day.**
+- ⚡ Fun fact **I spend almost 5 hours listening to songs every day.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
