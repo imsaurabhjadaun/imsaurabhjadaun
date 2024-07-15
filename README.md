@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imsaurabhjadaun&label=Profile%20views&color=0e75b6&style=flat" alt="saurabhkrsnadas" /> </p>
 
-<p align="left"> <a href="https://twitter.com/imsaurabhjadaun" target="blank"><img src="https://img.shields.io/twitter/follow/imsaurabhjadaun?logo=twitter&style=for-the-badge" alt="imsaurabhjadaun" /></a> </p>
+<p align="left"> <a href="https://twitter.com/imsaurabhjadaun" target="blank"><img src="https://img.shields.io/twitter/follow/saurabhkrsnadas?logo=twitter&style=for-the-badge" alt="saurabhkrsnadas" /></a> </p>
 
 - 🔭 I’m currently working on **Jetpack Compose**
 
@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Android Projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/imsaurabhjadaun](https://github.com/saurabhkrsnadas)
+- 👨‍💻 All of my projects are available at [https://github.com/saurabhkrsnadas](https://github.com/saurabhkrsnadas)
 
 - 💬 Ask me about **Sleep many hours, Android Development, and something of ConstraintLayout & MotionLayout 🚀**
 
@@ -23,7 +23,7 @@
 <p align="left">
 <a href="https://twitter.com/imsaurabhjadaun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imsaurabhjadaun" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/imsaurabhjadaun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imsaurabhjadaun" height="30" width="40" /></a>
-<a href="https://instagram.com/imsaurabhjadaun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="imsaurabhjadaun" height="30" width="40" /></a>
+<a href="https://instagram.com/imsaurabhjadaun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saurabhkrsnadas" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
