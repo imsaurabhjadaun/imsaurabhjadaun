@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saurabh Kumar</h1>
 <img align="right" alt="Coading" eidth="400" src="https://www.appdev360.com/wp-content/uploads/2021/02/gif-app-development-on-android.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imsaurabhjadaun&label=Profile%20views&color=0e75b6&style=flat" alt="imsaurabhjadaun" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=imsaurabhjadaun&label=Profile%20views&color=0e75b6&style=flat" alt="saurabhkrsnadas" /> </p>
 
 <p align="left"> <a href="https://twitter.com/imsaurabhjadaun" target="blank"><img src="https://img.shields.io/twitter/follow/imsaurabhjadaun?logo=twitter&style=for-the-badge" alt="imsaurabhjadaun" /></a> </p>
 
@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Android Projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/imsaurabhjadaun](https://github.com/imsaurabhjadaun)
+- 👨‍💻 All of my projects are available at [https://github.com/imsaurabhjadaun](https://github.com/saurabhkrsnadas)
 
 - 💬 Ask me about **Sleep many hours, Android Development, and something of ConstraintLayout & MotionLayout 🚀**
 
