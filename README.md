@@ -13,11 +13,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/imsaurabhjadaun](https://github.com/imsaurabhjadaun)
 
-- 💬 Ask me about **Sleep many hours, Android Development, and something of ConstraintLayout & MotionLayout 🚀**
+- 💬 Ask me about **Sleep many hours, Android Development.🚀**
 
 - 📫 How to reach me **imsaurabhjadaun@gmail.com**
-
-- ⚡ Fun fact **I spend almost 5 hours listening to songs every day.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
