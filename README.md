@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saurabh Kumar</h1>
-<img align="right" alt="Coading" eidth="400" src="https://www.appdev360.com/wp-content/uploads/2021/02/gif-app-development-on-android.gif">
+<img align="right" alt="Coading" eidth="400" src="https://timespro.com/blog/how-to-become-an-android-developer-detailed-steps">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imsaurabhjadaun&label=Profile%20views&color=0e75b6&style=flat" alt="imsaurabhjadaun" /> </p>
 
