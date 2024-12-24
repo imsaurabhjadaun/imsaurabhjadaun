@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saurabh Kumar</h1>
-<img align="right" alt="Coading" eidth="400" src="https://timesproweb-static-backend-prod.s3.ap-south-1.amazonaws.com/Android_Developer_Working_on_App_924c148919.webp">
+<img align="right" alt="Coading" eidth="200" src="https://timesproweb-static-backend-prod.s3.ap-south-1.amazonaws.com/Android_Developer_Working_on_App_924c148919.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imsaurabhjadaun&label=Profile%20views&color=0e75b6&style=flat" alt="imsaurabhjadaun" /> </p>
 
