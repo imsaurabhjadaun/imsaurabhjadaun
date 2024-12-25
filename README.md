@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Jetpack Compose**
 
-- 🌱 I’m currently learning **Jetpack Compose and Kotlin Multi-platformer.**
+- 🌱 I’m currently learning **Jetpack Compose and Kotlin Multi-platform.**
 
 - 👯 I’m looking to collaborate on **Android Projects**
 
