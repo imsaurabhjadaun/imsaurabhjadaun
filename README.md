@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/imsaurabhjadaun](https://github.com/imsaurabhjadaun)
 
-- 💬 Ask me about **Sleep many hours, Android Development.🚀**
+- 💬 Ask me about **Chant Hare Krishna Mahamantra,Flutter & Android Development.🚀**
 
 - 📫 How to reach me **imsaurabhjadaun@gmail.com**
 
